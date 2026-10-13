@@ -1,0 +1,16 @@
+{
+  "title": "我的组件仓库",
+  "description": "自定义影视组件",
+  "icon": "https://eco.fe-spark.cn/logo.png",
+  "widgets": [
+    {
+      "id": "ecohub.movie",
+      "title": "🌐 EcoHub影视",
+      "description": "影视聚合：最新/恐怖/动作/奇幻/剧集/动漫，支持搜索与多源播放",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Eternity",
+      "url": "https://raw.githubusercontent.com/zxsla/yingyue/main/ecohub.js"
+    }
+  ]
+}
