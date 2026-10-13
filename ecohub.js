@@ -6,7 +6,7 @@
 var WidgetMetadata = {
     id: "ecohub.movie",
     title: "🌐 EcoHub影视",
-    icon: "https://raw.githubusercontent.com/zxsla/yingyue/main/widget-icon.jpg",
+    icon: "https://raw.githubusercontent.com/zxsla/via/main/widget-icon.jpg",
     description: "影视聚合：最新/恐怖/动作/奇幻/剧集/动漫，支持搜索与多源播放",
     author: "Eternity",
     site: "https://eco.fe-spark.cn",
